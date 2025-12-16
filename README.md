@@ -1,4 +1,4 @@
-# Baseball Analytics using Advanced SQL (MySQL)
+# Baseball-Analytics-using-Advanced-SQL-(MySQL)
 
 ## Project Overview
 
